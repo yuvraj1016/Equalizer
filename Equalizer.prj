@@ -1,0 +1,62 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="4147394141" file="C:\Users\abhis\Equalizer.prj" location="C:\Users\abhis" name="Equalizer" target="target.mlapps" target-name="Package App">
+    <param.appname>Equalizer</param.appname>
+    <param.authnamewatermark>Abhishek Aryan</param.authnamewatermark>
+    <param.email>abhishekaryan@iiitmanipur.ac.in</param.email>
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>It is just a sound equalizer.</param.summary>
+    <param.description>&lt;b&gt;&lt;a href="C:\Users\abhis\OneDrive\Desktop"&gt;Description&lt;/a&gt;&lt;/b&gt;</param.description>
+    <param.screenshot>${PROJECT_ROOT}\AppData\Local\Temp\tp872b8fba_8d0a_4fcd_8ac4_35523c548ff8.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>dfb8f2e5-fac6-4e6f-9357-8816166b0114</param.guid>
+    <unset>
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\app2.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\Downloads\Screenshot__13_-removebg-preview.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users" name="abhis" optional="false">C:\Users\abhis</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2023a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
