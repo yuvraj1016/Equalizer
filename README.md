@@ -1,0 +1,3 @@
+# Equalizer
+
+In this project we have made a sound equalizer as instructed by our professor. We made this using MATLAB and also designed a GUI based app using MATLAB app designer. The function of the equaliser is that it takes (.wav) file as input and then applies a filter of choice, selects the window of choice and the user also selects the frequencies using sliders. Then the input and output graph is plotted and the resultant sound is played after filtration. This process can be repeated multiple times for different audio files depending on the user. This describes the whole working of the equaliser software our group made in brief.
